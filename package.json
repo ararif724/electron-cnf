@@ -1,6 +1,6 @@
 {
   "name": "electron-cnf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight package for managing Electron settings and configuration data",
   "main": "lib/index.js",
   "scripts": {
